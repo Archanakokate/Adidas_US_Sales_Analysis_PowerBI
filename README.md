@@ -21,15 +21,19 @@ By leveraging Power BI, this project aimed to gain valuable insights into sales 
 
 ## Results and Findings
 
-1) Sales and Profit Analysis: - We identified the top-performing products in terms of sales and profit, enabling Adidas to focus on their most successful offerings and allocate resources efficiently.
+1) Sales and Profit Analysis:
+   
+   - We identified the top-performing products in terms of sales and profit, enabling Adidas to focus on their most successful offerings and allocate resources efficiently.
   - By analyzing sales and profit figures across different regions, we discovered lucrative markets and regions that required further attention for growth.
   - Retailer-wise analysis helped identify high-performing sales partners and pinpoint areas for improvement.
 
 2) Trends Analysis:
+   
   - The month-on-month comparison highlighted the overall growth in sales and profit, indicating a positive trend for Adidas in the US market.
   - We uncovered specific periods or seasons during which sales and profit peaked, allowing Adidas to optimize marketing efforts during these times.
 
 3) Matrix Visualization:
+   
   - The matrix view provided an insightful snapshot of sales and profit metrics across retailers, states, and cities. Decision-makers can easily identify top-selling regions and areas with potential for improvement.
   - The visualizations allowed for quick comparisons between different categories, helping the management team make data-driven decisions efficiently.
 
