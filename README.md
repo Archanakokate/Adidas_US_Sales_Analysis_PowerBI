@@ -3,7 +3,7 @@
 ## Introduction
 The purpose of this project was to analyze the sales and profit performance of Adidas products in the US for the years 2020 and 2021. 
 The dataset provided comprehensive information, including retailer details, invoice dates, regions, states, product information, price per unit, units sold, total sales and profit figures. 
-By leveraging Power BI, this project aimed to gain valuable insights into sales trends, identify successful products or marketing campaigns and formulate strategies for future sales.
+By leveraging Power BI, this project aimed to gain valuable insights into sales trends, identify successful products for marketing campaigns and formulate strategies for future sales.
 
 ### Methodology
 
