@@ -23,7 +23,7 @@ By leveraging Power BI, this project aimed to gain valuable insights into sales 
 
 1) Sales and Profit Analysis:
    
-   - We identified the top-performing products in terms of sales and profit, enabling Adidas to focus on their most successful offerings and allocate resources efficiently.
+  - We identified the top-performing products in terms of sales and profit, enabling Adidas to focus on their most successful offerings and allocate resources efficiently.
   - By analyzing sales and profit figures across different regions, we discovered lucrative markets and regions that required further attention for growth.
   - Retailer-wise analysis helped identify high-performing sales partners and pinpoint areas for improvement.
 
