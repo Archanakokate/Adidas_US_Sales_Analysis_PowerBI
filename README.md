@@ -40,3 +40,12 @@ By leveraging Power BI, this project aimed to gain valuable insights into sales 
 ### Conclusion
   The Adidas US Sales and Profit Analysis project for the years 2020-2021 provided valuable insights into the company's performance and market trends.
   Overall, the findings of this analysis will serve as a crucial guide for Adidas in devising future sales strategies, optimizing marketing efforts, and focusing resources on areas with the highest growth potential. The project's success demonstrates the power of data analytics and visualization in driving business growth and performance.
+
+
+### Dashboard
+
+
+![Adidas_dashboard_Page1](https://github.com/Archanakokate/Adidas_US_Sales_Analysis_PowerBI/assets/115995897/7b29dada-b0dd-43a0-b591-3968bca1511e)
+
+
+![Adidas_dashboard_Page2](https://github.com/Archanakokate/Adidas_US_Sales_Analysis_PowerBI/assets/115995897/3e874463-84d4-40c4-88ca-518da8acea1f)
