@@ -19,7 +19,7 @@ By leveraging Power BI, this project aimed to gain valuable insights into sales 
 #### 4) Matrix Visualization:
   To facilitate detailed visualizations, created a matrix in Power BI that presented comprehensive insights into sales and profit figures by retailer, sales method, state and city. This matrix view allowed for a quick overview of the performance metrics at different levels of granularity.
 
-### Results and Findings
+### Results and Findings : 
 
 #### 1) Sales and Profit Analysis:
    
@@ -46,6 +46,7 @@ By leveraging Power BI, this project aimed to gain valuable insights into sales 
 
 
 ![Adidas_dashboard_Page1](https://github.com/Archanakokate/Adidas_US_Sales_Analysis_PowerBI/assets/115995897/7b29dada-b0dd-43a0-b591-3968bca1511e)
+
 
 
 ![Adidas_dashboard_Page2](https://github.com/Archanakokate/Adidas_US_Sales_Analysis_PowerBI/assets/115995897/3e874463-84d4-40c4-88ca-518da8acea1f)
